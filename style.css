@@ -9,11 +9,13 @@
   --color-3: #8e98a6;
   --color-4: #8cbeb2;
   --color-5: #f2ebbf;
+  --color-6: #edd74b;
+  --color-7: #90f882;
 }
 
 body {
   font-family: var(--ff-Poppins);
-  background-color: var(--color-1);
+  background-color: var(--color-6);
 }
 
 main .card {
@@ -29,6 +31,11 @@ main .card-body #awards {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+main .card-body .value {
+  font-size: 1rem !important;
+  background-color: var(--color-7);
 }
 
 main .card-body button {
