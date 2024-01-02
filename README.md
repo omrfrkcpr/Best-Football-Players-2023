@@ -25,7 +25,7 @@ Best-Football-Players-2024 (folder)
 
 ## Expected Outcome
 
-![ezgif-3-529bd74e9d](https://github.com/omrfrkcpr/Dental_Clinic_Page/assets/77440899/93a90b59-e90b-41d7-8290-a6eafd0ef10f)
+![ezgif-5-27d358e96c](https://github.com/omrfrkcpr/Best-Football-Players-2024/assets/77440899/4d80b5f7-6ae7-400d-84de-596b4c4910b1)
 
 ## Objective
 
