@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500&family=Poppins:wght@400;500;600&display=swap");
+
+:root {
+  --ff-Lora: "Lora", serif;
+  --ff-Poppins: "Poppins", sans-serif;
+
+  --color-1: #5c4b51;
+  --color-2: #f3b562;
+  --color-3: #8e98a6;
+  --color-4: #8cbeb2;
+  --color-5: #f2ebbf;
+}
+
+body {
+  background-image: url(assets/img/Ballon-dOr.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100vh;
+}
