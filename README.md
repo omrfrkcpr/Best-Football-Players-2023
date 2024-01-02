@@ -8,12 +8,12 @@ Project aims to create responsive vote page for the best foootball player in 202
 
 ## Problem Statement
 
-- Our company has recently started on a project that aims to create a responsive website for a local dental clinic. So you and your colleagues have started to work on the project.
+- Our company has recently started on a project that aims to create a responsive vote page for the best football player in 2024. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
 ```
-Dental_Clinic_Page (folder)
+Best-Football-Players-2024 (folder)
 |
 |----readme.md
 |----assets
@@ -21,7 +21,6 @@ Dental_Clinic_Page (folder)
 |----index.html
 |----style.css
 |----LICENSE
-|----lib
 ```
 
 ## Expected Outcome
@@ -34,7 +33,7 @@ Dental_Clinic_Page (folder)
 
 - HTML5 / CSS3 / Bootstrap
 
-- NavBar - Carousel Slider - Accordion - Form - CSS Grid
+- Responsive Layout
 
 - Overflow Property-The float Property-Opacity / Transparency-Units / Border settings like hover effect in CSS
 
