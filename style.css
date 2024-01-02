@@ -12,8 +12,30 @@
 }
 
 body {
-  background-image: url(assets/img/Ballon-dOr.jpeg);
-  background-repeat: no-repeat;
-  background-size: contain;
-  height: 100vh;
+  font-family: var(--ff-Poppins);
+  background-color: var(--color-1);
+}
+
+main .card {
+  background-color: var(--color-5);
+}
+
+main .card-text {
+  font-size: 0.8rem;
+}
+
+main .card-body #awards {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main .card-body button {
+  background-color: var(--color-2) !important;
+}
+
+main .card-body button:hover {
+  background-color: gold !important;
+  transition-duration: 0.5s;
 }
