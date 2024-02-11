@@ -23,13 +23,11 @@ Best-Football-Players-2024 (folder)
 |----LICENSE
 ```
 
-## Expected Outcome
+## Outcome
 
 ![ezgif-5-27d358e96c](https://github.com/omrfrkcpr/Best-Football-Players-2024/assets/77440899/4d80b5f7-6ae7-400d-84de-596b4c4910b1)
 
-## Objective
-
-### At the end of the project, following topics are to be covered;
+### At the end of the project, following topics are covered;
 
 - HTML5 / CSS3 / Bootstrap
 
@@ -39,7 +37,7 @@ Best-Football-Players-2024 (folder)
 
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
-### At the end of the project, you will be able to;
+### At the end of the project, will be able to;
 
 - improve coding skills within HTML & CSS inckl. Bootstrap
 
